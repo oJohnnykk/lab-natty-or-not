@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook "5 Dietas Fáceis e Práticas para Perder até 20% do Peso"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto consiste em um Ebook voltado para pessoas que buscam soluções rápidas e práticas para perda de peso. Ele apresenta cinco dietas simples, explicando como cada uma funciona, incluindo planos semanais e dicas para implementação. O foco foi criar um material visualmente atrativo e rico em informações para engajar o público e oferecer soluções aplicáveis ao dia a dia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* ChatGPT: Para desenvolver o roteiro e os conteúdos detalhados do Ebook.
+* Gamma.app: Para organizar o conteúdo e criar slides visuais e interativos.
+* Algoritmo de pesquisa de imagens do Google: Para encontrar imagens que complementassem as informações e enriquecessem o design.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Pesquisa e Planejamento: Usei o ChatGPT para estruturar o conteúdo, criar descrições detalhadas das dietas e organizar as ideias de forma prática e acessível.
+2. Design e Organização: No Gamma.app, reuni o conteúdo, ajustei os textos e criei um layout visualmente atraente, facilitando a navegação e compreensão.
+3. Incorporação de Imagens: Pesquisei imagens no Google para ilustrar as dietas e tornar o Ebook mais dinâmico e estético.
+4. Revisão e Polimento: Garanti que o material fosse visualmente coeso, informativo e alinhado ao público-alvo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+* Um Ebook bem estruturado, com informações claras e de fácil aplicação.
+* Design moderno e visualmente agradável, com gráficos e imagens que enriquecem o conteúdo.
+* Alta capacidade de engajamento, ideal para atrair leads e consolidar autoridade na área de saúde e emagrecimento.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão 
+Criar este Ebook foi um exercício de criatividade e funcionalidade, usando ferramentas de IA e design para produzir um material que equilibra beleza e conteúdo informativo. O maior desafio foi harmonizar as ferramentas disponíveis para criar algo que parecesse natural e feito com cuidado humano, o que considero ter sido atingido. O processo mostrou que, com as ferramentas certas, é possível transformar ideias em projetos impactantes e esteticamente agradáveis.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 👾 Link do Projeto
+https://gamma.app/docs/5-Dietas-faceis-e-praticas-para-perder-ate-20-do-peso-dghvakmjwddsibm
